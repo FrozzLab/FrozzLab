@@ -35,4 +35,4 @@
 ⡞⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⢧⠀⠀⠀⠀⠀⠀⠀⠈⠣⣀⠀⠀⡰
 
-# SIGNED BY SENIOR DEVELOPER
+# SIGNED AND APPROVED BY SENIOR DEVELOPER
