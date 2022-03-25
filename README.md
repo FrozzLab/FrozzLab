@@ -38,19 +38,19 @@
 # SIGNED AND APPROVED BY SENIOR DEVELOPER
 
 
-          ████████          
-        ██        ██        
-      ██▒▒          ██      
-    ██▒▒            ▒▒██    
-    ██▒▒            ▒▒██    
+          ████████  
+        ██        ██  
+      ██▒▒          ██  
+    ██▒▒            ▒▒██  
+    ██▒▒            ▒▒██  
   ██                  ▒▒██  
   ██                  ▒▒██  
-██   That Abyss Kek       ██
-██                        ██
-██ Approves this thingy ▒▒██
-██▒▒                    ▒▒██
+██   That Abyss Kek       ██  
+██                        ██  
+██ Approves this thingy ▒▒██  
+██▒▒                    ▒▒██  
   ██                  ▒▒██  
   ██▒▒                ▒▒██  
-    ██▒▒              ██    
-      ████        ████      
+    ██▒▒              ██  
+      ████        ████  
           ████████  
