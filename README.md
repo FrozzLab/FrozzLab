@@ -38,19 +38,14 @@
 # SIGNED AND APPROVED BY SENIOR DEVELOPER
 
 
-          ████████          
-        ██        ██        
-      ██▒▒          ██      
-    ██▒▒            ▒▒██    
-    ██▒▒            ▒▒██    
-  ██                  ▒▒██  
-  ██                  ▒▒██  
-██   That Abyss Kek       ██
-██                        ██
-██ Approves this thingy ▒▒██
-██▒▒                    ▒▒██
-  ██                  ▒▒██  
-  ██▒▒                ▒▒██  
-    ██▒▒              ██    
-      ████        ████      
-          ████████  
+                              ████                              
+                            ██░░░░██                            
+                          ██░░░░░░░░██                          
+                          ██░░░░░░░░██                          
+                        ██░░░░░░░░░░░░██                        
+                        ██░░░░DUDE.░░░██                        
+                        ██░░░░░░░░░░░░██                        
+                          ██░░░░░░░░██                          
+                            ████████   
+
+# APPROVED BY THAT (YEAH I MEAN THIS ONE) ABYSS KEK, A LIEGE GAY DEVELOPER
