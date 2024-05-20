@@ -1,1 +1,1 @@
-### Beginner-intermediate programmer with experience in Java, C# and Python.
+### Unity Game Developer, with additional experience in Web Development and Databases.
